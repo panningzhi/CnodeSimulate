@@ -1,3 +1,39 @@
+# 腾讯文档大作业要求
+
+https://docs.qq.com/doc/p/426ac3761378142cddefaa7e707f580ead4779c8
+
+* 另外补充：
+
+1. 可以使用UI组件，可以不用使用原生UI
+2. 可以使用脚手架create-react-app
+3. 必须使用lint，jest可选，加分项
+
+# 代码commit规范：参见https://zhuanlan.zhihu.com/p/182553920
+
+# 代码书写规范：按照eslint配置项规定
+
+# 文件结构
+文件结构不固定，可以自行按照我们范例进行修改
+* src 源代码
+  * utils 非组件的函数与类
+  * component 页面组件及其样式文件
+  * app 根组件
+  * index 入口文件
+* docs 项目文档
+* public 静态文件资源
+* styles 全局样式文件
+
+# 技术栈：
+
+[React](https://reactjs.org/)
+
+[React-Router](https://reacttraining.com/react-router/web/example/basic)
+
+[Ant Design](https://ant.design/index-cn)
+
+[CnodeJS API](https://cnodejs.org/api)
+
+# 后面为脚手架自带的说明：
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
